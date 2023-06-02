@@ -22,23 +22,25 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ... -->
 
 <a href="https://github.com/nabin47/housing-price-prediction-app">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=nabin47&repo=housing-price-prediction-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=nabin47&repo=housing-price-prediction-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0d1117" />
 </a>
 
 <a href="https://github.com/nabin47/m-edit">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=nabin47&repo=m-edit&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=nabin47&repo=m-edit&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0d1117" />
 </a>
 
 <br>
+<br>
 
 <a href="https://github.com/nabin47/med-api">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=nabin47&repo=med-api&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=nabin47&repo=med-api&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0d1117" />
 </a>
 
 <a href="https://github.com/nabin47/get-doggos">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=nabin47&repo=get-doggos&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=nabin47&repo=get-doggos&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0d1117" />
 </a>
 
+<br>
 <br>
 
 <!-- <a href="https://github.com/nabin47">
@@ -50,5 +52,5 @@ Here are some ideas to get you started: -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <a href="https://github.com/nabin47">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=nabin47&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Nabin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=nabin47&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=0d1117" alt="Nabin's GitHub Stats" />
 </a>
