@@ -6,15 +6,13 @@
 
 ### Hi there 👋
 
-I am Jubair Ahmed Nabin, a fresh graduate from Department of CSE, CUET. 
+I am Jubair Ahmed Nabin, currently working as a Lecturer in the Department of CSE at IUBAT. I have finished my graduation from the Department of CSE at CUET.
 
 
 <!-- **nabin47/nabin47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
-- 💻 I'm actively looking for a job
-- 🔭 I’m currently preparing for interview
 - 🌱 I’m currently learning JavaScript and ReactJS
 - 👯 I’m looking to collaborate on open source project
 <!-- - 🤔 I’m looking for help with ...
