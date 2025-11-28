@@ -16,76 +16,73 @@
 # 👋 Hi, I'm **Jubair Ahmed Nabin**
 
 Lecturer in Computer Science • **Machine Learning & Cyber Security Researcher**  
-Focused on modern AI applications in **intrusion detection, multimodal learning, anomaly detection**, and secure intelligent systems.
+Specialized in **intrusion detection**, **deep learning**, **multimodal AI**, and **video anomaly detection**.
 
-🔗 **Personal Website:** https://nabin47.github.io  
+🔗 **Website:** https://nabin47.github.io  
 🔗 **LinkedIn:** https://www.linkedin.com/in/ahmednabin/
 
 ---
 
-## 🔬 **Research Focus Areas**
+## 🔬 Research Focus
 
-- 🧠 **Deep Learning for Security**  
-  CNN, LSTM, Attention, Federated Learning, Intrusion Detection
+- **Intrusion Detection Systems (IDS)**  
+  CNN, LSTM, Attention, Federated Learning, hybrid deep learning models
 
-- 🖼️ **Multimodal Machine Learning**  
-  Vision Transformers, Text–Image Fusion, Meme Sentiment Analysis
+- **Multimodal Machine Learning**  
+  Vision Transformers, Text–Image Fusion, meme sentiment analysis
 
-- 📊 **Anomaly & Threat Detection**  
-  Video anomaly detection, hybrid CNN–Transformer models
+- **Anomaly Detection**  
+  Video anomalies, two-stage hybrid classification pipelines
 
-- 🛡️ **Network Security + Threat Modeling**
+- **Cyber Security & Network Threat Modeling**
 
-- 🧪 **Applied AI for Real-World Systems**
+- **Applied ML for Real-World Systems**
 
 ---
+## 📖 Publications
 
-## 🧰 **Technical Stack**
+### 2025
+- **Federated machine learning for cardiovascular risk assessment: A decentralized XGBoost approach**  
+  M. S. Alom, S. S. Akhi, S. N. Borsha, N. Mia, F. S. Tamim, J. A. Nabin.  
+  *International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN)*
+
+- **Two-stage vision transformer-based framework for anomaly detection and classification in surveillance videos**  
+  M. Hasan, J. A. Nabin, N. Mia, F. S. Tamim, S. Mohammad, D. M. Das.  
+  *International Conference on Electrical, Computer and Communication Engineering (ECCE)*
+
+- **A novel temporal-aware adaptive feature selection strategy for network intrusion detection systems**  
+  N. Mia, M. M. H. Gazi, J. A. Nabin, F. S. Tamim, S. Mohammad, M. R. U. Islam.  
+  *Global Conference in Emerging Technology (GINOTECH)*
+
+- **Federated deep learning for cybersecurity and intrusion detection in decentralized networks**  
+  N. Mia, J. A. Nabin, S. Mohammad, M. Hasan, F. S. Tamim, D. M. Das.  
+  *International Conference on Advancements in Electrical, Electronics, Communication, Computing and Automation (ICAECA)*
+  
+- **A novel file entropy dataset for crypto-ransomware detection using machine learning**  
+  J. A. Nabin, M. M. Haque.  
+  *International Conference on Machine Intelligence and Emerging Technologies (Springer)*
+---
+
+## 🧰 Technical Skills
 
 **ML / AI:**  
-`PyTorch` • `TensorFlow` • `Keras` • `Scikit-Learn` • `OpenCV`  
+Python • PyTorch • TensorFlow • Scikit-Learn • Keras • OpenCV  
 
 **Core Tools:**  
-`Python` • `SQL` • `Bash` • `Git` • `Docker`
+Git • Docker • Bash • SQL  
 
 **Research Tools:**  
-`Jupyter` • `LaTeX` • `Weights & Biases` • `Pandas` • `NumPy`
+Jupyter • LaTeX • W&B • Pandas • NumPy  
 
 ---
 
-## 🌟 **Selected Projects**
+## 📫 Connect
 
-<p align="left">
-  <a href="https://github.com/nabin47/housing-price-prediction-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabin47&repo=housing-price-prediction-app&theme=github_dark&hide_border=true" />
-  </a>
+You can reach me through:
 
-  <a href="https://github.com/nabin47/m-edit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabin47&repo=m-edit&theme=github_dark&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/nabin47/med-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabin47&repo=med-api&theme=github_dark&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/nabin47/get-doggos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabin47&repo=get-doggos&theme=github_dark&hide_border=true" />
-  </a>
-</p>
+- Website: **https://nabin47.github.io**  
+- LinkedIn: **https://www.linkedin.com/in/ahmednabin/**  
+- Email: **janabin.research@gmail.com**
 
 ---
 
-## 📊 **GitHub Stats**
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabin47&show_icons=true&count_private=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabin47&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
-
----
-
-## 👀 **Profile Visitors**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=nabin47&color=blue&style=flat)
-
----
