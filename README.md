@@ -1,55 +1,91 @@
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ahmednabin)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ahmednabin/) \
+<!-- Social Badges -->
+<p align="left">
+  <a href="https://nabin47.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=githubpages&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/ahmednabin" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1CA2F1?style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmednabin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D76A8?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
+---
 
+# 👋 Hi, I'm **Jubair Ahmed Nabin**
 
-### Hi there 👋
+Lecturer in Computer Science • **Machine Learning & Cyber Security Researcher**  
+Focused on modern AI applications in **intrusion detection, multimodal learning, anomaly detection**, and secure intelligent systems.
 
-<!--I am Jubair Ahmed Nabin, currently working as a Lecturer in the Department of CSE at IUBAT. I have finished my graduation from the Department of CSE at CUET.-->
+🔗 **Personal Website:** https://nabin47.github.io  
+🔗 **LinkedIn:** https://www.linkedin.com/in/ahmednabin/
 
+---
 
-<!-- **nabin47/nabin47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔬 **Research Focus Areas**
 
-Here are some ideas to get you started: -->
+- 🧠 **Deep Learning for Security**  
+  CNN, LSTM, Attention, Federated Learning, Intrusion Detection
 
-- 🌱 I’m currently learning JavaScript and ReactJS
-- 👯 I’m looking to collaborate on open source project
-<!-- - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 🖼️ **Multimodal Machine Learning**  
+  Vision Transformers, Text–Image Fusion, Meme Sentiment Analysis
 
-<a href="https://github.com/nabin47/housing-price-prediction-app">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=nabin47&repo=housing-price-prediction-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0d1117" />
-</a>
+- 📊 **Anomaly & Threat Detection**  
+  Video anomaly detection, hybrid CNN–Transformer models
 
-<a href="https://github.com/nabin47/m-edit">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=nabin47&repo=m-edit&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0d1117" />
-</a>
+- 🛡️ **Network Security + Threat Modeling**
 
-<br>
-<br>
+- 🧪 **Applied AI for Real-World Systems**
 
-<a href="https://github.com/nabin47/med-api">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=nabin47&repo=med-api&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0d1117" />
-</a>
+---
 
-<a href="https://github.com/nabin47/get-doggos">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=nabin47&repo=get-doggos&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0d1117" />
-</a>
+## 🧰 **Technical Stack**
 
-<br>
-<br>
+**ML / AI:**  
+`PyTorch` • `TensorFlow` • `Keras` • `Scikit-Learn` • `OpenCV`  
 
-<!-- <a href="https://github.com/nabin47">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabin47&layout=donut&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+**Core Tools:**  
+`Python` • `SQL` • `Bash` • `Git` • `Docker`
 
-<br> -->
+**Research Tools:**  
+`Jupyter` • `LaTeX` • `Weights & Biases` • `Pandas` • `NumPy`
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+---
 
-<a href="https://github.com/nabin47">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=nabin47&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=0d1117" alt="Nabin's GitHub Stats" />
-</a>
+## 🌟 **Selected Projects**
+
+<p align="left">
+  <a href="https://github.com/nabin47/housing-price-prediction-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabin47&repo=housing-price-prediction-app&theme=github_dark&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/nabin47/m-edit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabin47&repo=m-edit&theme=github_dark&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/nabin47/med-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabin47&repo=med-api&theme=github_dark&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/nabin47/get-doggos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabin47&repo=get-doggos&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nabin47&show_icons=true&count_private=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabin47&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
+
+---
+
+## 👀 **Profile Visitors**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=nabin47&color=blue&style=flat)
+
+---
