@@ -16,7 +16,7 @@
 # 👋 Hi, I'm **Jubair Ahmed Nabin**
 
 Lecturer in Computer Science • **Machine Learning & Cyber Security Researcher**  
-Specialized in **federated learning**, **intrusion detection**, **explainable AI**, and **video anomaly detection**.
+Specialized in **Federated Learning**, **Intrusion Detection**, **Explainable AI**, and **Adversarial Robustness**.
 
 ---
 
